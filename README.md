@@ -110,7 +110,61 @@ O Linux oferece diversas distribuições, cada uma com características que aten
 ## Melhor opção para você!
 ![ubuntu](https://e7.pngegg.com/pngimages/197/63/png-clipart-ubuntu-linux-distribution-long-term-support-canonical-apt-linux-text-trademark-thumbnail.png)
 
-Utilizaremos o sistema operacional Linux, mais especificamente a distribuição Ubuntu, devido às suas diversas qualidades. O Ubuntu oferece uma interface intuitiva e é amplamente reconhecido por sua estabilidade e segurança. Além disso, conta com uma comunidade ativa e acolhedora, que disponibiliza fóruns, tutoriais e soluções de problemas, tornando o aprendizado mais acessível. Essa rede de apoio é especialmente vantajosa no ambiente educacional, pois facilita o desenvolvimento das habilidades dos alunos, permitindo que superem desafios técnicos de forma eficiente e adquiram conhecimento prático no uso de sistemas operacionais de código aberto.
+Se o seu foco é um uso educacional, especialmente para iniciantes ou pessoas que estão começando a aprender sobre sistemas operacionais Linux, a melhor escolha seria o Ubuntu. Ele combina facilidade de uso, uma grande comunidade de suporte e estabilidade, além de ser compatível com uma ampla variedade de softwares. Isso torna o Ubuntu a distribuição mais indicada para quem busca uma experiência sem complicações, com muitos recursos educacionais disponíveis.
+
+# Manual completo de instalação do Linux no VirtualBox
+---
+## 1 passo
+
+```markdown
+Clique no link neste link -> [VirtualBox](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1)
+```
+## 2 passo
+
+```markdown
+Pressione o botão de download para iniciar a instalação
+```
+
+![image](https://github.com/user-attachments/assets/daf00a16-3f3d-451c-b695-ec9270ed6528)
+
+## 3 passo
+
+```markdown
+Pressione o botão de aceitar os termos e baixar o arquivo
+```
+
+![image](https://github.com/user-attachments/assets/42f0d30b-d873-4780-8f73-dc763ffa43d8)
+
+## 4 passo
+
+```markdown
+ Abra o arquivo baixado para instalar o VirtualBox
+```
+![image](https://github.com/user-attachments/assets/0a3cc6a4-ec98-4611-9102-9a7b3af070cb)
+
+## 5 passo
+
+```markdown
+ Após isso, devemos instalar o Ubuntu, para realizar essa tarefa, é preciso entrar no site do sistema operacional e baixar a versão mais recente (https://ubuntu.com/download)
+```
+
+![image](https://github.com/user-attachments/assets/f0c30e34-2ee9-4bf8-8315-737d9abbd3a4)
+
+# Criação da máquina virtual
+---
+## 1 passo
+```markdown
+Selecione a opção “Novo” em seu VirtualBox
+```
+![image](https://github.com/user-attachments/assets/90ed939d-7dfb-4be1-a990-4cc4148387ae)
+
+## 2 passo
+```markdown
+Nomeie o seu espaço virtual e selecione o arquivo baixado do Ubuntu na opção “Imagem ISO”
+```
+![image](https://github.com/user-attachments/assets/1efd905c-138d-41b1-86c8-4b0c8644e781)
+
+
 
 
 
