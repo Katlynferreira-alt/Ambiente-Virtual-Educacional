@@ -91,9 +91,20 @@ Total no boleto **R$4.249,62**
 
 Os itens selecionados para compra são altamente eficientes e de excelente qualidade. Com base em avaliações positivas de outros consumidores, é possível perceber que esses produtos atendem bem às expectativas e proporcionam resultados satisfatórios. Os comentários de usuários reforçam a confiança na durabilidade e no desempenho dos itens, garantindo uma escolha segura e vantajosa.
 
-# Escolha do Sistema Operacional
-## Ubuntu 
+# Seleção do Sistema Operacional
+--- 
+![ubuntu](https://e7.pngegg.com/pngimages/197/63/png-clipart-ubuntu-linux-distribution-long-term-support-canonical-apt-linux-text-trademark-thumbnail.png)
+
 Utilizaremos o sistema operacional Linux, mais especificamente a distribuição Ubuntu, devido às suas diversas qualidades. O Ubuntu oferece uma interface intuitiva e é amplamente reconhecido por sua estabilidade e segurança. Além disso, conta com uma comunidade ativa e acolhedora, que disponibiliza fóruns, tutoriais e soluções de problemas, tornando o aprendizado mais acessível. Essa rede de apoio é especialmente vantajosa no ambiente educacional, pois facilita o desenvolvimento das habilidades dos alunos, permitindo que superem desafios técnicos de forma eficiente e adquiram conhecimento prático no uso de sistemas operacionais de código aberto.
+
+
+
+
+
+
+
+
+
 
 
 
