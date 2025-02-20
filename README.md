@@ -164,11 +164,59 @@ Nomeie o seu espaço virtual e selecione o arquivo baixado do Ubuntu na opção 
 ```
 ![image](https://github.com/user-attachments/assets/1efd905c-138d-41b1-86c8-4b0c8644e781)
 
+![image](https://github.com/user-attachments/assets/c4a24186-ee90-4f3e-99ca-e1d902dab04d)
+
+Marque a opção “Pular Instalação Desassistida” e vá para a próxima etapa
+![image](https://github.com/user-attachments/assets/f986b493-0d1b-44de-85cd-1c700391c29f)
+
+## 3 passo
+```markdown
+Defina a memória base como 10000 MB, e 5 processadores
+```
+
+![image](https://github.com/user-attachments/assets/64f95f72-2360-47b9-b80e-dbe7ca38e99f)
+
+## 4 passo
+```markdown
+pule para a próxima etapa
+```
+
+![image](https://github.com/user-attachments/assets/79ea4712-0c6e-454f-8185-19490e494466)
+
+## 5 passo
+```markdown
+selecione a opção “Finalizar”
+```
+
+![image](https://github.com/user-attachments/assets/d5d2456b-c181-4549-959e-c3aa85bd6f6a)
+
+## 6 passo
+```markdown
+ Inicie seu espaço virtual pressionando o botão “Iniciar”
+```
+
+![image](https://github.com/user-attachments/assets/6dcf9af0-9e5b-4202-9f96-643dd5892b87)
+
+## 7 passo
+```markdown
+ Quando iniciado, essa aba aparecerá, pressione a tecla “Enter” para continuar
+```
+![image](https://github.com/user-attachments/assets/8f95a61f-df4d-470f-b0aa-18e2b7472062)
+
+## 8 passo
+```markdown
+Personalize seu sistema operacional
+```
+
+![image](https://github.com/user-attachments/assets/0ce3c904-3b6c-4c43-a967-78cae876df8e)
 
 
+## 9 passo
+```markdown
+ Pronto! seu sistema operacional está configurado para uso
+```
 
-
-
+![image](https://github.com/user-attachments/assets/7c7c2d4d-820c-44d1-b545-ed9b1fe132ae)
 
 
 
