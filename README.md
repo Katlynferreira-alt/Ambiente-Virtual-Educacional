@@ -16,7 +16,7 @@ O levantamento de requisitos significa documentar o que é necessário para o pr
 ![requisitos](https://i0.wp.com/analisederequisitos.com.br/wp-content/uploads/2018/03/Estrutura-dos-requisitos-de-nego%CC%81cio-usua%CC%81rio-e-requisitos-de-sistema.png?ssl=1)
 
 
-## Requisitos para um computador físico
+# Requisitos para um computador físico
 - *PROCESSADOR (*CPU*)*: Um dos hardwares mais importantes, é considerada o “cérebro” de um computador. **A CPU processa os dados digitais de entrada e os associa as instruções armazenadas em sua memória**. Então, fornece como saída os dados resultantes desse processamento.
 - *MEMÓRIA RAM*: A Memória de acesso aleatório (RAM) é um espaço temporário de informações do sistema operacional e de aplicativos em uso, e quando a tarefa é concluída, os arquivos são movidos da memória RAM.
 - *ARMAZENAMENTO*: O armazenamento é o componente do seu computador que permite que você armazene e acesse dados no longo prazo.
@@ -25,7 +25,7 @@ O levantamento de requisitos significa documentar o que é necessário para o pr
 - *TECLADO E MOUSE*: Os teclados de computadores mais comuns são projetados para a escrita de textos e inserção de comandos de sistema. Juntamente ao rato (mouse), é uma das principais interfaces entre o computador e o utilizador.
 - *MONITOR*: O monitor é um dispositivo de saída para o computador que mostra em sua tela os resultados de suas operações.
 
-## Requisitos para uma máquina virtual
+# Requisitos para uma máquina virtual
 - *CPU*: 1 núcleo (ou mais para melhor desempenho).
 - *MEMÓRIA RAM*: 2 GB (4 GB recomendado).
 - *ARMAZENAMENTO*: 10-20 GB de espaço livre.
@@ -34,7 +34,8 @@ O levantamento de requisitos significa documentar o que é necessário para o pr
 
 Os requisitos apresentados garantem o desempenho adequado da máquina virtual, permitindo a execução de softwares mais exigentes, como bancos de dados e servidores de aplicações, de maneira eficiente para fins educacionais. Essa configuração assegura que os alunos possam trabalhar com as ferramentas necessárias sem enfrentar limitações de desempenho, além de validar a escolha da máquina física como uma solução viável para suportar o ambiente virtualizado de forma estável e produtiva.
 
-## Orçamento para cada componente
+# Orçamento para cada componente do computador
+---
 - **Processador**: [AMD Ryzen 5 4500 3.6 GHz 6-Core](https://meupc.net/link/Kabum/Fs6rE3)
 
 ![componentes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZluyaF-dR8HFRS5d8OclmfYS_nXxe3FXLgw&s)
@@ -83,9 +84,16 @@ Os requisitos apresentados garantem o desempenho adequado da máquina virtual, p
 
 ![componentes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IZYZM46DyXEa0iO0wjoRCa5jvlLZAumArQ&s)
 
+Total no cartão: **R$4.873,55**
+
+Total no boleto **R$4.249,62**
 
 
+Os itens selecionados para compra são altamente eficientes e de excelente qualidade. Com base em avaliações positivas de outros consumidores, é possível perceber que esses produtos atendem bem às expectativas e proporcionam resultados satisfatórios. Os comentários de usuários reforçam a confiança na durabilidade e no desempenho dos itens, garantindo uma escolha segura e vantajosa.
 
+# Escolha do Sistema Operacional
+## Ubuntu 
+Utilizaremos o sistema operacional Linux, mais especificamente a distribuição Ubuntu, devido às suas diversas qualidades. O Ubuntu oferece uma interface intuitiva e é amplamente reconhecido por sua estabilidade e segurança. Além disso, conta com uma comunidade ativa e acolhedora, que disponibiliza fóruns, tutoriais e soluções de problemas, tornando o aprendizado mais acessível. Essa rede de apoio é especialmente vantajosa no ambiente educacional, pois facilita o desenvolvimento das habilidades dos alunos, permitindo que superem desafios técnicos de forma eficiente e adquiram conhecimento prático no uso de sistemas operacionais de código aberto.
 
 
 
