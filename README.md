@@ -257,18 +257,17 @@ Selecione "Rede":
 
 ![image](https://github.com/user-attachments/assets/53e64143-e4fc-4f0f-853a-3887d446d284)
 
+# Comandos básicos no terminal
+- Abra o terminal a partir da combinação: "Ctrl+Alt+T":
 
+![image](https://github.com/user-attachments/assets/edb1c179-b15c-4731-8025-2a6fd2ddd423)
 
+- Com isso, utilize códigos como esses:
 
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/c4d05e0c-fd68-4f8c-a9f3-2a427a182061)
 
 # Considerações finais 
+---
 O objetivo desta atividade foi desenvolver um ambiente virtual com finalidades educacionais, permitindo aos alunos experimentar e aprender tecnologias como MySQL, Node.js e Python de forma prática e acessível. A criação de um laboratório controlado possibilitou uma aprendizagem dinâmica, permitindo a exploração e aplicação desses conhecimentos em um ambiente seguro e flexível. A atividade se mostrou extremamente interessante, pois não apenas ofereceu uma abordagem prática, mas também incentivou a criatividade dos alunos, proporcionando uma experiência valiosa que uniu teoria e prática de maneira eficaz.
 
 
