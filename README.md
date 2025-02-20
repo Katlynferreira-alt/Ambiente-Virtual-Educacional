@@ -37,5 +37,27 @@ Os requisitos apresentados garantem o desempenho adequado da máquina virtual, p
 ## Orçamento para cada componente
 - **Processador**: [AMD Ryzen 5 4500 3.6 GHz 6-Core](https://meupc.net/link/Kabum/Fs6rE3)
 
+![componentes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZluyaF-dR8HFRS5d8OclmfYS_nXxe3FXLgw&s)
 
-  
+- **Memória RAM**: [Kingston Fury Beast (Preto) 16 GB (2x8GB)](https://meupc.net/peca/64gcGS/memoria-kingston-fury-beast-kf432c16bbk216)
+
+![componentes](https://blog.raisa.com.br/wp-content/uploads/2023/03/image-592.png)
+
+- **Armazenamento**: [Kingston SSD A400 480 GB 2.5"](https://meupc.net/peca/kwi558/ssd-kingston-a400-a400480gb)
+
+![componentes](https://media.pichau.com.br/media/catalog/product/cache/ef72d3c27864510e5d4c0ce69bade259/s/l/sleg-860-500gcs.jpg)
+
+- **Placa-mãe**: [Asus TUF Gaming A520M-Plus Micro ATX AM4](https://meupc.net/peca/UMx2r9/placa-mae-asus-tuf-gaming-a520m-plus)
+
+![componentes](https://static.meupc.net/produto/placa-mae-asus-tuf-gaming-a520m-plus-psE2F6-L.jpg)
+
+- **Fonte**: [Gamemax 600W 600 W Certificado 80+ White  ATX12V](https://meupc.net/peca/cU63BA/fonte-gamemax-600w)
+
+![componentes](https://static.meupc.net/produto/fonte-msi-maga650bn650w-pe6YD5-L.jpg)
+
+- **Teclado**: [Redragon Kumara](https://meupc.net/peca/AB2fS8/teclado-redragon-kumara-k552)
+
+![componentes]()
+
+
+
