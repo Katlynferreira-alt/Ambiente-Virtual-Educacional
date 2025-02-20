@@ -93,6 +93,21 @@ Os itens selecionados para compra são altamente eficientes e de excelente quali
 
 # Seleção do Sistema Operacional
 --- 
+O Linux oferece diversas distribuições, cada uma com características que atendem a diferentes necessidades. Aqui estão algumas das mais populares:
+
+- Ubuntu: Uma das distribuições mais conhecidas e amigáveis para iniciantes. Oferece uma interface gráfica intuitiva e uma grande comunidade de suporte, tornando-a uma ótima opção tanto para usuários iniciantes quanto para desenvolvedores.
+
+- Fedora: Focada em fornecer as versões mais recentes do software, o Fedora é ideal para quem quer ter acesso às tecnologias mais novas. Embora não seja tão amigável quanto o Ubuntu, é excelente para quem busca um sistema mais "avant-garde".
+
+- Debian: Conhecida pela sua estabilidade, o Debian é uma escolha sólida para servidores e usuários que priorizam um sistema confiável e seguro. Pode ser mais difícil para iniciantes, mas é muito popular entre administradores de sistemas.
+
+- Linux Mint: Baseada no Ubuntu, o Linux Mint oferece uma interface mais clássica, parecida com o Windows, o que pode facilitar a transição para quem está vindo de outros sistemas operacionais. É leve e muito estável.
+
+- Arch Linux: Uma distribuição "rolling release", voltada para usuários mais avançados que preferem ter controle total sobre o que está instalado no sistema. É ideal para quem quer aprender mais sobre o funcionamento interno do Linux, mas não é recomendado para iniciantes.
+
+- openSUSE: Focada em ser uma plataforma estável e fácil de gerenciar, o openSUSE é excelente para ambientes corporativos e desenvolvedores. Possui ferramentas de administração de sistema avançadas e é altamente customizável.
+
+## Melhor opção para você!
 ![ubuntu](https://e7.pngegg.com/pngimages/197/63/png-clipart-ubuntu-linux-distribution-long-term-support-canonical-apt-linux-text-trademark-thumbnail.png)
 
 Utilizaremos o sistema operacional Linux, mais especificamente a distribuição Ubuntu, devido às suas diversas qualidades. O Ubuntu oferece uma interface intuitiva e é amplamente reconhecido por sua estabilidade e segurança. Além disso, conta com uma comunidade ativa e acolhedora, que disponibiliza fóruns, tutoriais e soluções de problemas, tornando o aprendizado mais acessível. Essa rede de apoio é especialmente vantajosa no ambiente educacional, pois facilita o desenvolvimento das habilidades dos alunos, permitindo que superem desafios técnicos de forma eficiente e adquiram conhecimento prático no uso de sistemas operacionais de código aberto.
