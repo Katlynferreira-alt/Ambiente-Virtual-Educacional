@@ -219,6 +219,55 @@ Personalize seu sistema operacional
 ![image](https://github.com/user-attachments/assets/7c7c2d4d-820c-44d1-b545-ed9b1fe132ae)
 
 
+# Configuração de rede
+---
+## 1 passo
+```markdown
+Feche o Computador Virtual e abra o VirtualBox novamente:
+```
+![image](https://github.com/user-attachments/assets/8f1966aa-66a1-4e48-9cca-54751f92a749)
+
+
+## 2 passo
+```markdown
+ Selecione o Computador Virtual:
+```
+
+![image](https://github.com/user-attachments/assets/049b8d2a-1e98-48f3-9ca3-3b3af3896a80)
+
+## 3 passo
+```markdown
+Clique duas vezes em "Configurações":
+```
+![image](https://github.com/user-attachments/assets/8fe5d69e-396d-4922-ae1f-7e645a6a1284)
+
+![image](https://github.com/user-attachments/assets/cf81803f-00ea-47ba-8efa-049d937706a8)
+
+## 4 passo
+```markdown
+Selecione "Rede":
+```
+![image](https://github.com/user-attachments/assets/5d644a21-b680-4bfa-9300-6a27128a732d)
+
+
+## 5 passo
+```markdown
+ Em "Adaptor 1", habilite a placa de rede, e das opções em "Conectado a:", selecione "NAT":
+```
+
+![image](https://github.com/user-attachments/assets/53e64143-e4fc-4f0f-853a-3887d446d284)
+
+
+
+
+
+
+
+
+
+
+
+
 # Considerações finais 
 O objetivo desta atividade foi desenvolver um ambiente virtual com finalidades educacionais, permitindo aos alunos experimentar e aprender tecnologias como MySQL, Node.js e Python de forma prática e acessível. A criação de um laboratório controlado possibilitou uma aprendizagem dinâmica, permitindo a exploração e aplicação desses conhecimentos em um ambiente seguro e flexível. A atividade se mostrou extremamente interessante, pois não apenas ofereceu uma abordagem prática, mas também incentivou a criatividade dos alunos, proporcionando uma experiência valiosa que uniu teoria e prática de maneira eficaz.
 
