@@ -49,15 +49,43 @@ Os requisitos apresentados garantem o desempenho adequado da máquina virtual, p
 
 - **Placa-mãe**: [Asus TUF Gaming A520M-Plus Micro ATX AM4](https://meupc.net/peca/UMx2r9/placa-mae-asus-tuf-gaming-a520m-plus)
 
-![componentes](https://static.meupc.net/produto/placa-mae-asus-tuf-gaming-a520m-plus-psE2F6-L.jpg)
+![componentes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprWjptAH5jggVfjE-d5CI0mkP76umx90Z4Q&s)
 
 - **Fonte**: [Gamemax 600W 600 W Certificado 80+ White  ATX12V](https://meupc.net/peca/cU63BA/fonte-gamemax-600w)
 
-![componentes](https://static.meupc.net/produto/fonte-msi-maga650bn650w-pe6YD5-L.jpg)
+![componentes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToGh2L1ofHwx_htYfqRhrtMt1avn9SywpZIw&s)
 
 - **Teclado**: [Redragon Kumara](https://meupc.net/peca/AB2fS8/teclado-redragon-kumara-k552)
 
-![componentes]()
+![componentes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprWjptAH5jggVfjE-d5CI0mkP76umx90Z4Q&s)
+
+- **Mouse**: [Redragon Cobra Chroma M711 Com fio](https://meupc.net/peca/jwq68q/mouse-redragon-cobra-chroma-m711)
+
+![componentes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaIzMdfQ-oor0Y9ZTXk3iU3ug89fGysS8oA&s)
+
+- **Monitor**: [Monitor  AOC 24G2E1 23.8″ 1920 x 1080 100 Hz](https://meupc.net/peca/Ho28is/monitor-aoc-24g2e1)
+
+![componentes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_7zO5nH9ZvoRkqigX2XVNjn6QQZHQxL4R7A&s)
+
+- **Placa de vídeo**: [MSI GeForce GTX 1650 4 GB VENTUS XS](https://meupc.net/peca/bxq9r8/placa-video-msi-geforce-gtx-1650-geforcegtx16504gb)
+
+![componentes](https://images1.kabum.com.br/produtos/fotos/522531/placa-de-video-rtx-4060-asus-dual-o8g-evo-nvidia-geforce-8gb-gddr6-g-sync-ray-tracing-90yv0jc7-m0na00_1711036187_g.jpg)
+
+- **Gabinete**: [Rise Mode Galaxy Glass M Mini (Preto) MicroATX Mini Tower](https://meupc.net/peca/baF42G/gabinete-rise-mode-galaxy-glass-m-mini-rmgaggmnfb)
+
+![componentes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTbTS9ImijfKqtkJqUzw37SL70nvTgHqG7XQ&s)
+
+- **Cooler do Processador**: [Rise Mode Gamer G800 Hidráulico](https://meupc.net/peca/PX3X42/cooler-processador-rise-mode-gamer-g800)
+
+![componentes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1l0j2_GTCNsaBNStljevtzChGq9W_JnJqgw&s)
+
+- **Mousepad**: [Havit HV-MP830](https://meupc.net/peca/qWqF98/mousepad-havit-hv-mp830-hvmp830)
+
+![componentes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6IZYZM46DyXEa0iO0wjoRCa5jvlLZAumArQ&s)
+
+
+
+
 
 
 
