@@ -219,7 +219,8 @@ Personalize seu sistema operacional
 ![image](https://github.com/user-attachments/assets/7c7c2d4d-820c-44d1-b545-ed9b1fe132ae)
 
 
-
+# Considerações finais 
+O objetivo desta atividade foi desenvolver um ambiente virtual com finalidades educacionais, permitindo aos alunos experimentar e aprender tecnologias como MySQL, Node.js e Python de forma prática e acessível. A criação de um laboratório controlado possibilitou uma aprendizagem dinâmica, permitindo a exploração e aplicação desses conhecimentos em um ambiente seguro e flexível. A atividade se mostrou extremamente interessante, pois não apenas ofereceu uma abordagem prática, mas também incentivou a criatividade dos alunos, proporcionando uma experiência valiosa que uniu teoria e prática de maneira eficaz.
 
 
 
